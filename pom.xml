@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.wql</groupId>
     <artifactId>generate-entity-service</artifactId>
+	<version>1.0.0</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
